@@ -204,14 +204,4 @@ utils/
 
 ---
 
-## 🤝 Contributing
-
-You're welcome to contribute!  
-- Report bugs  
-- Suggest enhancements  
-- Submit pull requests  
-- Share experimental results  
-
----
-
 *This project represents a full-stack solution to multimodal sentiment analysis — from data preprocessing and model training to real-time deployment via Streamlit.*
